@@ -35,7 +35,7 @@ Some of the main insights identified during the analysis include:
 - Sales performance varies across product categories and regions, suggesting
   opportunities for more targeted strategies.
 
-## Tools and Technologies
+## 🛠 Tools and Technologies
 - Python
 - Pandas and NumPy
 - Matplotlib and Seaborn
