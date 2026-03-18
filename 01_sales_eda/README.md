@@ -1,9 +1,8 @@
 # Sales Data Exploratory Analysis
 
-This project focuses on exploring historical sales data to understand sales
-behavior, profitability patterns, and key business drivers. The goal is to
-extract insights that can support data-driven decision-making using a
-structured and practical exploratory analysis.
+This project explores historical sales data from a retail superstore to better understand sales behavior, profitability patterns, and potential business drivers.
+
+The main goal is to perform a structured exploratory data analysis (EDA) to extract insights that can support data-driven decision-making.
 
 ## Business Context
 Understanding how sales and profit behave across time, products, and regions
