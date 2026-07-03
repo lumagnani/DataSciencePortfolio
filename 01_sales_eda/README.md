@@ -11,15 +11,27 @@ This analysis aims to provide a clear overview of sales performance and highligh
 patterns that may influence business strategy.
 
 ## Dataset
-The analysis uses a Superstore sales dataset containing transactional-level
+The analysis uses the **Global Superstore** sales dataset, containing transactional-level
 records, including information about orders, products, customers, regions,
 sales, and profit. Each row represents an individual transaction item.
+
+- Source: [add the Kaggle/original link here]
+- Size: 51,290 rows x 26 columns
+- File used: `data/superstore.csv`
+
+## How to Reproduce
+1. Clone this repository
+2. Install dependencies: `pip install pandas numpy matplotlib seaborn jupyter`
+3. Place the dataset at `data/superstore.csv`
+4. Open and run `eda_analysis.ipynb` in Jupyter
 
 ## Analysis Overview
 The project follows a typical exploratory data analysis workflow:
 
 - Initial data inspection and quality checks
+- Column name standardization (snake_case)
 - Data type validation and date handling
+- Outlier analysis on sales and profit
 - Exploratory analysis using multiple visualization techniques
 - Interpretation of patterns related to sales volume and profitability
 

@@ -112,7 +112,7 @@ Some important findings from the analysis include:
 │   └── hospital_readmissions_30k.csv
 
 │── notebooks/
-│   └── hospital_readmission_analysis.ipynb
+│   └── hospital_readmissions_analysis.ipynb
 
 │── dashboard/
 │   └── hospital_readmission_dashboard.pbix
@@ -137,3 +137,4 @@ Possible next steps for this project:
 
 **Luiza Magnani**
 Aspiring Data Scientist | Data Analytics | Python | Power BI
+
